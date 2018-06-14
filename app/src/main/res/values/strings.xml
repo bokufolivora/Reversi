@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">step9</string>
+    <string name="title">リバーシー</string>
+    <string name="man_to_man">対人</string>
+    <string name="man_to_auto">コンピュータ同士</string>
+    <string name="auto_to_auto">対コンピュータ</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="game_return">RETURN</string>
+</resources>
